@@ -1,0 +1,35 @@
+.container{
+    background-color: royalblue;
+    width: 100%;
+    height: 100%;
+    border: rgba(0, 0, 0, 0.686) solid;
+    text-align: center;
+}
+.main,img{
+    width:800px;
+    height:200px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.concept{
+    text-align: left;
+    font-size: 20px;
+}
+.concept h2{
+    color: red;
+    font-size:50px;
+    text-align: left;
+    }
+.concept p{
+    font-size: 20px;
+    text-align: left;
+
+}
+.concept li{
+    font-size: 20px;
+    
+}
+.contact{
+    text-align: end;
+}
